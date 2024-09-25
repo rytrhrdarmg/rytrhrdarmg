@@ -9,7 +9,6 @@ My current work is to develop a web application.
 
 - Japanese (native)
 - English (a little bit)
-- Galactic Standard (Coruscant; same level as Eng.)
 - Python
 - Java
 - JavaScript & Node.js
@@ -19,11 +18,12 @@ My current work is to develop a web application.
 ## Framework
 
 Oops! Here's nothing to show you.  
-(I just touched Django with my fingertips for a nanosecond...)
+( I just touched Django with my fingertips for a nanosecond... )
 
-## Hobbies and Interests
+## Football Clubs
 
-Everything around me, especially music and movie.
+Arsenal F.C.  
+Kyoto Sanga F.C.  
 
 ## Favorite Engines
 
