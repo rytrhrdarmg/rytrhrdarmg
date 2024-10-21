@@ -4,16 +4,9 @@
 
 Hi. It's Ryotaro.
 
-## Languages, Frameworks or ...
+## Languages & Frameworks
 
 - Japanese
-- English
-- Python
-- Java
-- JavaScript & Node.js
-- PostgreSQL
-- HTML ^^;
-- ( AWS )
 
 ## Football Clubs
 
@@ -23,6 +16,7 @@ Arsenal, Brighton & Hove Albion, Leeds, Kyoto Sanga.
 
 V8.
 
-## Fuels
+## Drinks
 
-Rooibos tea, Red Bull, Coca Cola.
+Rooibos tea, Red Bull, Coca Cola.  
+I don't drink alcohol.
