@@ -17,7 +17,7 @@ Hi. It's Ryotaro.
 
 ## Football Clubs
 
-Arsenal, Leeds, Kyoto Sanga.
+Arsenal, Brighton & Hove Albion, Leeds, Kyoto Sanga.
 
 ## Engines
 
