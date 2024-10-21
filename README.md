@@ -2,29 +2,27 @@
 
 ## Introduction
 
-Hi. It's Ryotaro, a beginner engineer from Japan. I'm working at Advantage Risk Management Co., Ltd.  
-My current work is to develop a web application.
+Hi. It's Ryotaro.
 
-## Language
+## Languages, Frameworks or ...
 
-- Japanese (native)
-- English (a little bit)
+- Japanese
+- English
 - Python
 - Java
 - JavaScript & Node.js
-- SQL
-- HTML
-
-## Framework
-
-Oops! Here's nothing to show you.  
-( I just touched Django with my fingertips for a nanosecond... )
+- PostgreSQL
+- HTML ^^;
+- ( AWS )
 
 ## Football Clubs
 
-Arsenal F.C.  
-Kyoto Sanga F.C.  
+Arsenal, Leeds, Kyoto Sanga.
 
-## Favorite Engines
+## Engines
 
 V8.
+
+## Fuels
+
+Rooibos tea, Red Bull, Coca Cola.
