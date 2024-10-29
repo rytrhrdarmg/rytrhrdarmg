@@ -2,20 +2,24 @@
 
 ## Introduction
 
-Hi. It's Ryotaro.
+Hi.  
 
 ## Languages & Frameworks
 
-Japanese
+- Japanese
 
 ## Football Clubs
 
-Brighton & Hove Albion, Leeds, Kyoto Sanga
+- Brighton & Hove Albion  
+- Leeds United
+- Kyoto Sanga
 
 ## Engines
 
-V8
+- V8
 
 ## Drinks
 
-Rooibos tea, Red Bull, Coca Cola
+- Rooibos tea
+- Red Bull,
+- Coca Cola
