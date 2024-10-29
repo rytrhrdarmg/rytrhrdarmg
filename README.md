@@ -7,12 +7,14 @@ Hi.
 ## Languages & Frameworks
 
 - Japanese
+- English
+- Python
 
 ## Football Clubs
 
-- Brighton & Hove Albion  
-- Leeds United
-- Kyoto Sanga
+- Brighton & Hove Albion F.C.
+- Leeds United F.C.
+- Kyoto Sanga F.C.
 
 ## Engines
 
@@ -21,5 +23,5 @@ Hi.
 ## Drinks
 
 - Rooibos tea
-- Red Bull,
+- Red Bull
 - Coca Cola
